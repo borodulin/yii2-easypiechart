@@ -1,6 +1,6 @@
 {
     "name": "conquer/easypiechart",
-    "description": "Conquer easypiechart widget",
+    "description": "Yii2 easypiechart widget",
     "keywords": ["yii2", "extension", "widget", "easypiechart"],
     "homepage": "https://github.com/borodulin/yii2-easypiechart",
     "type": "yii2-extension",
